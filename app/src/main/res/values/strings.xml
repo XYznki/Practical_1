@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practical 1</string>
+    <string name="my_name">Sim Xuan You</string>
+    <string name="show">Show</string>
+    <string name="hide">Hide</string>
+    <string name="my_qr">Qr_Code</string>
+
+</resources>
